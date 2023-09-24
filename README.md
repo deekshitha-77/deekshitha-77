@@ -14,7 +14,7 @@ Welcome to my GitHub portfolio, where I showcase my passion for technology.<br>
 
 ## 💻 Tech Stack:
 LANGUAGES:<br>
-https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c
-https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python
+https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 
