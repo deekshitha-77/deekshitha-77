@@ -13,8 +13,9 @@ Welcome to my GitHub portfolio, where I showcase my passion for technology.<br>
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kinshukgoel4/)](https://www.instagram.com/deekshi25.62/)
 
 ## 💻 Tech Stack:
-LANGUAGES:<br>
-https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+LANGUAGES:<br><br>
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
 
 
